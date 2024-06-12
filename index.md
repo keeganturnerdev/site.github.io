@@ -52,15 +52,7 @@ sections:
         # img/portfolio/thumbnails
         icon: 1.jpg
         text: >
-        Stack includes:
-        Linux Operating system (Debian or Ubuntu)
-        Apache web server
-        MariaDB 
-        phpMyAdmin 
-        PHP
-        FTP
-        Composer
-        Free Let's Encrypt SSL Certificate
+        Stack includes: Linux Operating system (Debian or Ubuntu) - Apache web server - MariaDB - phpMyAdmin - PHP - FTP - Composer - Free Let's Encrypt SSL Certificate
       - title: Project 2
         text: This is a very short project description.
         icon: 2.jpg

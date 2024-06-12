@@ -5,8 +5,8 @@ header:
   text: >
     Cloud Application Platform Administration
   action: # action button is optional
-    label: Begin
-    url: '#about'
+    label: contact
+    url: '#contacts'
 
 sections:
   - type: services.html

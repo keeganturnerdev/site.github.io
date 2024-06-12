@@ -1,7 +1,8 @@
 ---
 layout: home
 header:
-  text: Welcome To
+  text: >
+    Welcome To
   title: STACKFORM
   text: >
     Cloud Application Platform Administration & Support

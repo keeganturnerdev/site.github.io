@@ -38,7 +38,7 @@ sections:
       StackForm is focused on deploying LAMP stacks in the cloud with the aim of bridging the gap between shared and dedicated solutions.
 
   - type: portfolio.html
-    section_id: pricing
+    section_id: portfolio
     background_style: bg-dark text-white
     title: Pricing
     services:

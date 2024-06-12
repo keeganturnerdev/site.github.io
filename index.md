@@ -20,7 +20,7 @@ sections:
   - type: services.html
     section_id: services
     background_style: bg-dark text-white
-    title: About the Build
+    title: Stack and Infrastructure Components
     services:
       - title: Platform
         text: Built on Ubuntu/Debian as your host operating system, seamlessly integrated with Apache, MariaDB & PHP for effortless application management.
@@ -37,6 +37,7 @@ sections:
       
 
   - type: portfolio.html
+    title: Setup Fees
     # this section has always ID 'portfolio'
     #section_id: portfolio
     #background_style: bg-dark
@@ -56,18 +57,7 @@ sections:
         text: This is a very short project description.
         icon: 3.jpg
         url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
+      
 
   - type: aside.html
     section_id: aside

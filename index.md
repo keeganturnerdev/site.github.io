@@ -10,7 +10,8 @@ header:
 
 
 sections:
- - type: services.html
+ 
+  - type: services.html
     section_id: services
     background_style: bg-dark text-white
     title: Stack and Infrastructure Components
@@ -28,7 +29,7 @@ sections:
         text: Safeguard your digital fortress with a Web Application Firewall, NGINX Proxy Manager, and cloud firewall, ensuring comprehensive protection and control over your online assets.
         icon: bi bi-sliders2-vertical
 
- - type: call-to-action.html
+  - type: call-to-action.html
     section_id: about
     background_style: bg-primary
     title: My Area of Focus

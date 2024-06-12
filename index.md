@@ -2,8 +2,6 @@
 layout: home
 header:
   title: LAMP STACK BUILDS
-header:
-  title: Cloud
   text: >
     Cloud Application Platform Administration
   action: # action button is optional

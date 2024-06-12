@@ -37,20 +37,23 @@ sections:
       My function involves constructing the foundational platform by deploying the essential programs and services to host your application in the cloud.
       StackForm is focused on deploying LAMP stacks in the cloud with the aim of bridging the gap between shared and dedicated solutions.
 
-  - type: pricing.html
-    section_id: pricing
+  - type: services.html
+    section_id: services
     background_style: bg-dark text-white
     title: Pricing
     services:
       - title: Essential @R2599.95 
-        text: Stack includes Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer, and comes with a free Let's Encrypt SSL Certificate.
+        text: Stack includes Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer
         icon: bi bi-layers-half
       - title: Core @R2999.95 
-        text: Stack includes Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer, Modsec, Fail2Ban, ClamAV, and includes a free Let's Encrypt SSL Certificate.
+        text: Stack includes Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer, Modsec, Fail2Ban, ClamAV
         icon: bi bi-layers-fill
       - title: Elite @ R3999.95
-        text: Stack comprises Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer, Modsec, Fail2Ban, ClamAV, Docker, NGINX Proxy Manager, Uptime Kuma, and includes a free Let's Encrypt SSL Certificate.
+        text: Stack comprises Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer, Modsec, Fail2Ban, ClamAV, Docker, NGINX Proxy Manager, Uptime Kuma
         icon: bi bi-stack
+      - title: Free Let's Encrypt SSL certificate
+        text: Included with any Stack plan and covers one domain
+        icon: bi bi-lock-fill
       
   - type: call-to-action.html
     section_id: about

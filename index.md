@@ -14,11 +14,8 @@ sections:
     section_id: about
     background_style: bg-primary
     title: As a Cloud Applications Platform Administrator, I construct the foundational platform and deploy the essential programs and services to host your application in the cloud.
-    text: Built on Debian/Ubuntu as your host operating system, seamlessly integrated with Apache, MariaDB, PHP, Composer and Docker for effortless application management.
-    actions:
-      - title: Get Started!
-        url: '#page-top'
-        class: btn-light
+    text: I construct the foundational platform and deploy the essential programs and services to host your application in the cloud.
+    
 
   - type: services.html
     section_id: services
@@ -27,8 +24,7 @@ sections:
     services:
       - title: Platform
         text: Built on Debian/Ubuntu as your host operating system, seamlessly integrated with Apache, MariaDB, PHP, Composer and Docker for effortless application management.
-        icon: bi-gem text-info
-        url: https://startbootstrap.com/
+        icon: linux
       - title: Environment
         text: With cloud computing infrastructure, empowering you to forge a custom dynamic environment tailored to your digital aspirations.
         icon: bi-rocket-takeoff

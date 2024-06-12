@@ -24,7 +24,7 @@ sections:
         text: Proactive monitoring tools like Uptime Kuma for website monitoring, ensuring uninterrupted operations and informed decision-making.
         icon: bi-activity
       - title: Control
-        text: Safeguard your digital fortress with a Web Application Firewall, NGINX Proxy Manager, and cloud firewall, ensuring comprehensive protection and control over your online assets.
+        text: Safeguard your digital fortress with a Web Application Firewall, NGINX Proxy Manager, & cloud firewall, ensuring protection & control over your online assets.
         icon: bi bi-sliders2-vertical
 
   - type: call-to-action.html
@@ -55,10 +55,6 @@ sections:
         text: Included with any Stack plan and covers one domain
         icon: bi bi-lock-fill
       
-  - type: call-to-action.html
-    section_id: about
-    background_style: bg-primary
-    title: Terms and Conditions
    
 
   - type: contact.html

@@ -12,7 +12,7 @@ header:
 sections:
   - type: call-to-action.html
     section_id: about
-    background_style: bg-info
+    background_style: bg-dark text-primary
     title: I construct the foundational platform and deploy the essential programs and services to host your application in the cloud.
     text: 
     

@@ -5,7 +5,7 @@ header:
   text: >
     Cloud Application Platform Administration
   action: # action button is optional
-    label: contact
+    label: connect
     url: '#contacts'
 
 sections:

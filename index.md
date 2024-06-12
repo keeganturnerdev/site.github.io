@@ -19,7 +19,7 @@ sections:
 
   - type: services.html
     section_id: services
-    #background_style: bg-dark text-white
+    background_style: bg-dark text-white
     title: At Your Service
     services:
       - title: Platform

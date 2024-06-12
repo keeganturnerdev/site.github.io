@@ -61,8 +61,7 @@ sections:
         title: >
           **keeganturner.co.za**
         text: >-
-          I developed my own tech blog with the goal of
-        providing content and inspiring others to get started in tech.
+          I developed my own tech blog with the goal of providing content and inspiring others to get started in tech.
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
           Completed Courses

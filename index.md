@@ -35,32 +35,20 @@ sections:
         text: Safeguard your digital fortress with a Web Application Firewall, NGINX Proxy Manager, and cloud firewall, ensuring comprehensive protection and control over your online assets.
         icon: bi bi-sliders2-vertical
 
-  - type: aside.html
-    section_id: aside
+  - type: pricing.html
+    section_id: pricing
+    background_style: bg-primary
     title: Setup Fees
-
-  - type: portfolio.html
-    title: Setup Fees
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
-      - title: Essential @R2599.95 once-off 
-        text: Budget-friendly option for basic websites or blogs.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        text: >
-        Stack includes: Linux Operating system (Debian or Ubuntu) - Apache web server - MariaDB - phpMyAdmin - PHP - FTP - Composer - Free Let's Encrypt SSL Certificate
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
+    services:
+      - title: Essential @R2599.95 
+        text: Stack includes Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer, and comes with a free Let's Encrypt SSL Certificate.
+        icon: bi bi-layers-half
+      - title: Core @R2999.95 
+        text: Stack includes Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer, Modsec, Fail2Ban, ClamAV, and includes a free Let's Encrypt SSL Certificate.
+        icon: bi bi-layers-fill
+      - title: Elite @ R3999.95
+        text: Stack comprises Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer, Modsec, Fail2Ban, ClamAV, Docker, NGINX Proxy Manager, Uptime Kuma, and includes a free Let's Encrypt SSL Certificate.
+        icon: bi bi-stack
       
 
   - type: aside.html

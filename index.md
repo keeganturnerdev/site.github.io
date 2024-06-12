@@ -35,8 +35,8 @@ sections:
         text: Safeguard your digital fortress with a Web Application Firewall, NGINX Proxy Manager, and cloud firewall, ensuring comprehensive protection and control over your online assets.
         icon: bi bi-sliders2-vertical
 
-  - type: pricing.html
-    section_id: pricing
+  - type: aside.html
+    section_id: aside
     background_style: bg-primary
     title: Setup Fees
     services:

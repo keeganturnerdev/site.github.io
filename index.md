@@ -51,6 +51,7 @@ sections:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
+        text: >
         Stack includes:
         Linux Operating system (Debian or Ubuntu)
         Apache web server

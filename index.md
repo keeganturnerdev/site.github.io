@@ -37,8 +37,8 @@ sections:
       My function involves constructing the foundational platform by deploying the essential programs and services to host your application in the cloud.
       StackForm is focused on deploying LAMP stacks in the cloud with the aim of bridging the gap between shared and dedicated solutions.
 
-  - type: services.html
-    section_id: services
+  - type: pricing.html
+    section_id: pricing
     background_style: bg-dark text-white
     title: Pricing
     services:

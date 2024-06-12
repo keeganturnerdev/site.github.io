@@ -76,24 +76,26 @@ sections:
         url: https://startbootstrap.com/themes/creative/
         class: btn-light
 
-
- - type: contact.html
+  - type: contact.html
     section_id: contacts
     title: Let's Get connected!
     text: >-
       Get your Cloud server stacked. Connect with me and I would be happy to help!
     actions:
+      - title: +1 (202) 555-014
+        icon: bi bi-telegram
+      - title: E-Mail
+        icon: bi-envelope-fill
+        url: mailto: support@stackform.co.za
+      - title: 
+        icon: bi bi-mastodon
+        url: '#'
+      - title: Instagram
+        icon: bi bi-instagram
+        url: '#'
 
-    - title: +1 (202) 555-014
-      icon: bi bi-telegram
-    - title: E-Mail
-      icon: bi-envelope-fill
-      url: mailto: support@stackform.co.za
-    - title: 
-      icon: bi bi-mastodon
-      url: '#'
-    - title: Instagram
-      icon: bi bi-instagram
-      url: '#'
+
+
+
 
 ---

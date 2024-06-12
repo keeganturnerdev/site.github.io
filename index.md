@@ -49,13 +49,12 @@ sections:
         text: Stack comprises Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer, Modsec, Fail2Ban, ClamAV, Docker, NGINX Proxy Manager, Uptime Kuma, and includes a free Let's Encrypt SSL Certificate.
         icon: bi bi-stack
       
-        
-  - type: aside.html
-    section_id: aside
+  - type: call-to-action.html
+    section_id: about
     background_style: bg-primary
-    title: Terms & Conditions
+    title: Terms and Conditions
     actions:
-      - title: Download Now!
+     - title: Download Now!
         url: https://startbootstrap.com/themes/creative/
         class: btn-light
 

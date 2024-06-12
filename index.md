@@ -12,27 +12,25 @@ header:
 sections:
   - type: call-to-action.html
     section_id: about
-    background_style: bg-dark text-primary
+    background_style: bg-primary
     title: I construct the foundational platform and deploy the essential programs and services to host your application in the cloud.
-    text: 
     
-
   - type: services.html
     section_id: services
     background_style: bg-dark text-white
-    title: At Your Service
+    title: About the Build
     services:
       - title: Platform
-        text: Built on Ubuntu/Debian as your host operating system, seamlessly integrated with Apache, MariaDB, PHP, Composer and Docker for effortless application management.
+        text: Built on Ubuntu/Debian as your host operating system, seamlessly integrated with Apache, MariaDB & PHP for effortless application management.
         icon: bi bi-ubuntu
       - title: Environment
         text: With cloud computing infrastructure, empowering you to forge a custom dynamic environment tailored to your digital aspirations.
         icon: bi bi-layers-half
       - title: Monitoring
-        text: Proactive monitoring tools like Uptime Kuma for website monitoring and Grafana Cloud for robust server analysis, ensuring uninterrupted operations and informed decision-making.
+        text: Proactive monitoring tools like Uptime Kuma for website monitoring, ensuring uninterrupted operations and informed decision-making.
         icon: bi-activity
       - title: Control
-        text: Safeguard your digital fortress with a Web Application Firewall, NGINX Proxy Manager for docker applications, and cloud firewall, ensuring comprehensive protection and control over your online assets.
+        text: Safeguard your digital fortress with a Web Application Firewall, NGINX Proxy Manager, and cloud firewall, ensuring comprehensive protection and control over your online assets.
         icon: bi bi-sliders2-vertical
       
 

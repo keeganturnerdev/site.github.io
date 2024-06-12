@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: YOUR FAVORITE SOURCE OF FREE BOOTSTRAP THEMES
+  title: STACKFORM
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Cloud Application Platform Administration & Support
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -14,8 +13,8 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: As a Cloud Applications Platform Administrator, I construct the foundational platform and deploy the essential programs and services to host your application in the cloud.
+    text: Built on Debian/Ubuntu as your host operating system, seamlessly integrated with Apache, MariaDB, PHP, Composer and Docker for effortless application management.
     actions:
       - title: Get Started!
         url: '#page-top'
@@ -26,25 +25,20 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: Platform
+        text: Built on Debian/Ubuntu as your host operating system, seamlessly integrated with Apache, MariaDB, PHP, Composer and Docker for effortless application management.
         icon: bi-gem text-info
         url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+      - title: Environment
+        text: With cloud computing infrastructure, empowering you to forge a custom dynamic environment tailored to your digital aspirations.
         icon: bi-rocket-takeoff
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
+      - title: Monitoring
+        text: Proactive monitoring tools like Uptime Kuma for website monitoring and Grafana Cloud for robust server analysis, ensuring uninterrupted operations and informed decision-making.
         icon: bi-activity
-      - title: Made with Love
-        text: You have to make your websites with love these days!
+      - title: Control
+        text: Safeguard your digital fortress with a Web Application Firewall, NGINX Proxy Manager for docker applications, and cloud firewall, ensuring comprehensive protection and control over your online assets.
         icon: bi-heart-fill
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: bi-emoji-heart-eyes
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: bi-emoji-sunglasses-fill
+      
 
   - type: portfolio.html
     # this section has always ID 'portfolio'

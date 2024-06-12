@@ -1,9 +1,7 @@
 ---
 layout: home
 header:
-  text: >
-    Welcome To
-  title: STACKFORM
+  title: WELCOME TO STACKFORM
   text: >
     Cloud Application Platform Administration & Support
   action: # action button is optional
@@ -14,9 +12,9 @@ header:
 sections:
   - type: call-to-action.html
     section_id: about
-    background_style: bg-primary
-    title: Cloud Applications Platform Administrator
-    text: I construct the foundational platform and deploy the essential programs and services to host your application in the cloud.
+    background_style: bg-dark
+    title: I construct the foundational platform and deploy the essential programs and services to host your application in the cloud.
+    text: 
     
 
   - type: services.html
@@ -26,7 +24,7 @@ sections:
     services:
       - title: Platform
         text: Built on Debian/Ubuntu as your host operating system, seamlessly integrated with Apache, MariaDB, PHP, Composer and Docker for effortless application management.
-        icon: linux
+        icon: bi-gem text-info
       - title: Environment
         text: With cloud computing infrastructure, empowering you to forge a custom dynamic environment tailored to your digital aspirations.
         icon: bi-rocket-takeoff

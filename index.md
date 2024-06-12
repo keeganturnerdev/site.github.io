@@ -77,12 +77,13 @@ sections:
         class: btn-light
 
 
-  - type: contact.html
+ - type: contact.html
     section_id: contacts
     title: Let's Get connected!
-     text: >-
+    text: >-
       Get your Cloud server stacked. Connect with me and I would be happy to help!
     actions:
+
     - title: +1 (202) 555-014
       icon: bi bi-telegram
     - title: E-Mail

@@ -19,12 +19,12 @@ sections:
 
   - type: services.html
     section_id: services
-    #background_style: bg-info
+    #background_style: bg-dark text-white
     title: At Your Service
     services:
       - title: Platform
         text: Built on Debian/Ubuntu as your host operating system, seamlessly integrated with Apache, MariaDB, PHP, Composer and Docker for effortless application management.
-        icon: bi-gem text-info
+        icon: bi bi-ubuntu text-info
       - title: Environment
         text: With cloud computing infrastructure, empowering you to forge a custom dynamic environment tailored to your digital aspirations.
         icon: bi-rocket-takeoff

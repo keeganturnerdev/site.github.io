@@ -34,7 +34,10 @@ sections:
       - title: Control
         text: Safeguard your digital fortress with a Web Application Firewall, NGINX Proxy Manager, and cloud firewall, ensuring comprehensive protection and control over your online assets.
         icon: bi bi-sliders2-vertical
-      
+
+  - type: aside.html
+    section_id: aside
+    title: Setup Fees
 
   - type: portfolio.html
     title: Setup Fees
@@ -42,13 +45,21 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: Essential @R2599.95 once-off 
+        text: Budget-friendly option for basic websites or blogs.
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
-        url: '#'
+        Stack includes:
+        Linux Operating system (Debian or Ubuntu)
+        Apache web server
+        MariaDB 
+        phpMyAdmin 
+        PHP
+        FTP
+        Composer
+        Free Let's Encrypt SSL Certificate
       - title: Project 2
         text: This is a very short project description.
         icon: 2.jpg
@@ -66,36 +77,6 @@ sections:
       - title: Download Now!
         url: https://startbootstrap.com/themes/creative/
         class: btn-light
-
-  - type: members.html
-    section_id: members
-    title: Our Crew!
-    background_style: bg-info text-white
-    members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
-        url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
 
   - type: timeline.html
     section_id: timeline

@@ -68,6 +68,7 @@ sections:
         
   - type: aside.html
     section_id: aside
+    background_style: bg-primary
     title: Terms & Conditions
     actions:
       - title: Download Now!
@@ -77,6 +78,7 @@ sections:
   - type: contact.html
     section_id: contacts
     title: Let's Get connected!
+    background_style: bg-dark text-white
     text: >-
       Get your Cloud server stacked. Connect with me and I would be happy to help!
     actions:

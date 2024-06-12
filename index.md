@@ -37,7 +37,7 @@ sections:
 
   - type: services.html
     section_id: services
-    background_style: bg-primary
+    background_style: bg-dark text-white
     title: Setup Fees
     services:
       - title: Essential @R2599.95 

@@ -5,8 +5,8 @@
 header:
 - title: About
   url: /#about
-- title: Pricing
-  url: /#pricing
+- title: Services
+  url: /#services
 - title: Contacts
   url: /#contacts
 

@@ -49,22 +49,6 @@ sections:
         text: Stack comprises Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer, Modsec, Fail2Ban, ClamAV, Docker, NGINX Proxy Manager, Uptime Kuma, and includes a free Let's Encrypt SSL Certificate.
         icon: bi bi-stack
       
-  - type: timeline.html
-    section_id: timeline
-    title: My Projects and Certifications!
-    background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
-    actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >
-          **keeganturner.co.za**
-        text: >-
-          I developed my own tech blog with the goal of providing content and inspiring others to get started in tech.
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          Completed Courses
-        text: >-
-          AWS Technical Essentials, AWS Educate Introduction to Cloud, Linux Server Administration Basics
         
   - type: aside.html
     section_id: aside

@@ -51,53 +51,50 @@ sections:
         text: Stack comprises Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer, Modsec, Fail2Ban, ClamAV, Docker, NGINX Proxy Manager, Uptime Kuma, and includes a free Let's Encrypt SSL Certificate.
         icon: bi bi-stack
       
-
+  - type: timeline.html
+    section_id: timeline
+    title: My Projects and Certifications!
+    background_style: bg-dark text-primary
+    last_image: assets/img/timeline-end.png
+    actions:
+      - image: assets/img/portfolio/thumbnails/1.jpg
+        title: >
+          **keeganturner.co.za**
+        text: >-
+          I developed my own tech blog with the goal of
+        providing content and inspiring others to get started in tech.
+      - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          Completed Courses
+        text: >-
+          AWS Technical Essentials, AWS Educate Introduction to Cloud, Linux Server Administration Basics
+        
   - type: aside.html
     section_id: aside
-    title: Free Download at Start Bootstrap!
+    title: Terms & Conditions
     actions:
       - title: Download Now!
         url: https://startbootstrap.com/themes/creative/
         class: btn-light
 
-  - type: timeline.html
-    section_id: timeline
-    title: Major Achievements!
-    background_style: bg-dark text-primary
-    last_image: assets/img/timeline-end.png
-    actions:
-      - image: assets/img/portfolio/thumbnails/1.jpg
-        title: >+
-          2017-2018
-          **Humble Beginnings**
-        text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
-      - image: assets/img/portfolio/thumbnails/2.jpg
-        title: >+
-          November 2019
-          An Coaching started
-        text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
+    title: Let's Get connected!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      Get your Cloud server stacked with the programs and services to run and host your web application!
+    Connect with me and I would be happy to help!
     actions:
     - title: +1 (202) 555-014
-      icon: bi-telephone-fill
+      icon: bi bi-telegram
     - title: E-Mail
       icon: bi-envelope-fill
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: bi-twitter
+      url: mailto: support@stackform.co.za
+    - title: 
+      icon: bi bi-mastodon
       url: '#'
-    - title: Facebook
-      icon: bi-facebook
+    - title: Instagram
+      icon: bi bi-instagram
       url: '#'
 
 ---

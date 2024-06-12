@@ -37,10 +37,10 @@ sections:
       My function involves constructing the foundational platform by deploying the essential programs and services to host your application in the cloud.
       StackForm is focused on deploying LAMP stacks in the cloud with the aim of bridging the gap between shared and dedicated solutions.
 
-  - type: services.html
-    section_id: services
+  - type: pricing.html
+    section_id: pricing
     background_style: bg-dark text-white
-    title: Setup Fees
+    title: Pricing
     services:
       - title: Essential @R2599.95 
         text: Stack includes Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer, and comes with a free Let's Encrypt SSL Certificate.

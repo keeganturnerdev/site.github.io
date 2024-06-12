@@ -14,7 +14,8 @@ sections:
     section_id: about
     background_style: bg-primary
     title: My Area of Focus
-    text: > I construct the foundational platform and deploy the essential programs and services to host your application in the cloud.
+    text: >
+      I construct the foundational platform and deploy the essential programs and services to host your application in the cloud.
     
   - type: services.html
     section_id: services

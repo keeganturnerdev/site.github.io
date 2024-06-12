@@ -32,9 +32,8 @@ sections:
     background_style: bg-primary
     title: About
     text: >
-      Hi, I am Keegan. Cretor of StackForm.
-    StackForm is a concept, an idea of deploying a stack of technologies on a platform. This platform could be on your local machine, physical servers or in the cloud.
-    My function involves constructing the foundational platform and deploy the essential programs and services to host your application in the cloud.
+      Hi, I am Keegan. Cretor of StackForm. StackForm is a concept, an idea of deploying a stack of technologies on a platform. This platform could be on your local machine, physical servers or in the cloud.
+      My function involves constructing the foundational platform and deploy the essential programs and services to host your application in the cloud.
 
   - type: services.html
     section_id: services

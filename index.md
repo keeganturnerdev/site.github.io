@@ -1,9 +1,10 @@
 ---
 layout: home
 header:
-  title: WELCOME TO STACKFORM
+  title: LAMP STACK BUILDS
+  title: Cloud
   text: >
-    Cloud Application Platform Administration & Support
+    Cloud Application Platform Administration
   action: # action button is optional
     label: Begin
     url: '#about'

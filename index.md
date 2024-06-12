@@ -1,11 +1,12 @@
 ---
 layout: home
 header:
+  text: Welcome To
   title: STACKFORM
   text: >
     Cloud Application Platform Administration & Support
   action: # action button is optional
-    label: Find Out More
+    label: Begin
     url: '#about'
 
 
@@ -13,7 +14,7 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: As a Cloud Applications Platform Administrator, I construct the foundational platform and deploy the essential programs and services to host your application in the cloud.
+    title: Cloud Applications Platform Administrator
     text: I construct the foundational platform and deploy the essential programs and services to host your application in the cloud.
     
 

@@ -53,10 +53,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: Terms and Conditions
-    actions:
-     - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
+   
 
   - type: contact.html
     section_id: contacts

@@ -9,8 +9,8 @@ header:
     url: '#contacts'
 
 sections:
-  - type: pricing.html
-    section_id: pricing
+  - type: aside.html
+    section_id: aside
     background_style: bg-dark text-white
     title: Stack and Infrastructure Components
     services:

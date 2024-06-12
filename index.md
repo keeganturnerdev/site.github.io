@@ -8,9 +8,7 @@ header:
     label: Begin
     url: '#about'
 
-
 sections:
- 
   - type: services.html
     section_id: services
     background_style: bg-dark text-white
@@ -82,7 +80,7 @@ sections:
     text: >-
       Get your Cloud server stacked. Connect with me and I would be happy to help!
     actions:
-      - title: +1 (202) 555-014
+      - title: "+1 (202) 555-014"
         icon: bi bi-telegram
       - title: E-Mail
         icon: bi-envelope-fill
@@ -93,5 +91,3 @@ sections:
       - title: Instagram
         icon: bi bi-instagram
         url: '#'
-
----

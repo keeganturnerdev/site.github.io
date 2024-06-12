@@ -80,12 +80,12 @@ sections:
     text: >-
       Get your Cloud server stacked. Connect with me and I would be happy to help!
     actions:
-      - title: "+1 (202) 555-014"
+      - title: +1 (202) 555-014
         icon: bi bi-telegram
       - title: E-Mail
         icon: bi-envelope-fill
-        url: mailto: support@stackform.co.za
-      - title: " "  # Add an empty string as a placeholder for the title
+        url: mailto:support@stackform.co.za
+      - title: Mastadon
         icon: bi bi-mastodon
         url: '#'
       - title: Instagram

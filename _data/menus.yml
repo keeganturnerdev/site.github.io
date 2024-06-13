@@ -9,4 +9,6 @@ header:
   url: /#services
 - title: Connect
   url: /#contacts
+  -title: Terms
+    url: /links
 

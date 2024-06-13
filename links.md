@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: Terms and Conditions
 #background_style: bg-info
 background_image: url('assets/img/backgrounds/annie-spratt-dWYU3i-mqEo-unsplash.jpg')
 # Add a link to the the top menu
@@ -55,5 +55,5 @@ Keegan Turner/stackform.co.za makes no warranties or representations, express or
 ### Limitation of Liability:
 In no event shall Keegan Turner/stackform.co.za be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with the use or inability to use the cloud server instance(s), including but not limited to damages for loss of profits, data, or business interruption.
 
-This policy ensures transparency and fairness in our collaboration, fostering mutual trust and understanding. By proceeding with the services I provide, the customer acknowledges that they have read, understood, and agreed to abide by these terms and conditions.
+**This policy ensures transparency and fairness in our collaboration, fostering mutual trust and understanding. By proceeding with the services I provide, the customer acknowledges that they have read, understood, and agreed to abide by these terms and conditions.**
 ---

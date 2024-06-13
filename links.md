@@ -8,7 +8,6 @@ menus:
   header:
     title: Terms and Conditions
     weight: 2
-
 As a Cloud Applications Platform Administrator, I specialize in constructing and deploying foundational platforms and applications using free open source software to establish the base layer for user websites. However, it is important to note that my role is limited to the setup and management of the underlying infrastructure and applications.
 Responsibilities:
 Platform Construction: I build the foundational infrastructure and deploy the necessary applications to create a reliable hosting platform for user websites.

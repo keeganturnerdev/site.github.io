@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terms and Conditions
-#background_style: bg-info
+#background_style: bg-dark text-white
 background_image: url('assets/img/backgrounds/annie-spratt-dWYU3i-mqEo-unsplash.jpg')
 # Add a link to the the top menu
 menus:

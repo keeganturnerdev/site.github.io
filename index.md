@@ -35,7 +35,7 @@ sections:
     services:
       - title: Essential @R2599.95 
         text: Stack includes Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer
-        icon: bi bi-layers-half
+        icon: bi bi-airplane
       - title: Core @R2999.95 
         text: Stack includes Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer, Modsec, Fail2Ban, ClamAV
         icon: bi bi-layers-fill

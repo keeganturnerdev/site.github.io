@@ -37,7 +37,7 @@ sections:
     services:
       - title: Essential @R2599.95 
         text: LAMP stack, phpMyAdmin, PHP, FTP, Composer
-        icon: bi bi-airplane
+        icon: bi bi-layers-half
       - title: Core @R2999.95 
         text: LAMP stack, phpMyAdmin, FTP, Composer, Modsec, Fail2Ban, ClamAV
         icon: bi bi-layers-fill

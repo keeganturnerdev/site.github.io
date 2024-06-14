@@ -65,8 +65,9 @@ sections:
     section_id: contacts
     title: Let's Connect
     background_style: bg-dark text-white
-    text: >-
+    text: >
       Get your Cloud server stacked.
+    text: >
       Connect with me and I would be happy to help!
     actions:
       - title: +1 (202) 555-014

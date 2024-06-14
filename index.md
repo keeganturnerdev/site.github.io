@@ -66,7 +66,8 @@ sections:
     title: Let's Connect
     background_style: bg-dark text-white
     text: >-
-      Get your Cloud server stacked. Connect with me and I would be happy to help!
+      Get your Cloud server stacked.
+    Connect with me and I would be happy to help!
     actions:
       - title: +1 (202) 555-014
         icon: bi bi-telegram

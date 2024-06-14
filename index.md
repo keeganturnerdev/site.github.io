@@ -32,18 +32,20 @@ sections:
     section_id: services
     background_style: bg-dark text-white
     title: Cost Structure
+    text: >
+      Base Stack comprises of Linux, Apache, MariaDB & PHP - Known as the LAMP stack
     services:
       - title: Essential @R2599.95 
-        text: Stack includes Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer
+        text: LAMP stack, phpMyAdmin, PHP, FTP, Composer
         icon: bi bi-airplane
       - title: Core @R2999.95 
-        text: Stack includes Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer, Modsec, Fail2Ban, ClamAV
+        text: LAMP stack, phpMyAdmin, FTP, Composer, Modsec, Fail2Ban, ClamAV
         icon: bi bi-layers-fill
       - title: Elite @ R3999.95
-        text: Stack comprises Linux (Debian/Ubuntu), Apache, MariaDB, phpMyAdmin, PHP, FTP, Composer, Modsec, Fail2Ban, ClamAV, Docker, NGINX Proxy Manager, Uptime Kuma
+        text: LAMP stack, phpMyAdmin, FTP, Composer, Modsec, Fail2Ban, ClamAV, Docker, NGINX Proxy Manager, Uptime Kuma
         icon: bi bi-stack
       - title: Free Let's Encrypt SSL certificate
-        text: Included with any Stack plan and covers one domain
+        text: Secure your web applications with a free SSL certificate 
         icon: bi bi-lock-fill
 
   

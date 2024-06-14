@@ -4,7 +4,7 @@
 # run. So please, fill in any custom menu entry here.
 header:
 - title: Home
-  url: /_includes/nav.html
+  url: /#links
 - title: About
   url: /#about
 - title: Services

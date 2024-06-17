@@ -49,7 +49,7 @@ sections:
 
   - type: banner.html
     section_id: banner
-    background_style: bg-warning
+    background_style: bg-primary
     title: Banner Section
     text: >
       This is the banner section with some introductory text.

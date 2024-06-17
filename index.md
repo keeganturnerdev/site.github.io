@@ -27,6 +27,13 @@ sections:
         text: Safeguard your digital fortress with a Web Application Firewall, NGINX Proxy Manager, & cloud firewall, ensuring protection & control over your online assets.
         icon: bi bi-sliders2-vertical
 
+  - type: banner.html
+    section_id: banner
+    background_style: bg-primary
+    title: Banner Section
+    text: >
+      This is the banner section with some introductory text.
+
   - type: services.html
     section_id: services
     background_style: bg-dark text-white
@@ -46,13 +53,6 @@ sections:
       - title: Free Let's Encrypt SSL certificate
         text: Secure your web applications with a free SSL certificate
         icon: bi bi-lock-fill
-
-  - type: banner.html
-    section_id: banner
-    background_style: bg-primary
-    title: Banner Section
-    text: >
-      This is the banner section with some introductory text.
 
   - type: call-to-action.html
     section_id: about

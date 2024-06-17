@@ -9,11 +9,6 @@ header:
     url: '#contacts'
 
 sections:
-  - type: banner.html  # Include the banner here
-    section_id: banner
-    background_style: bg-light
-    title: Banner Section
-
   - type: services.html
     section_id: services
     background_style: bg-dark text-white
@@ -31,6 +26,11 @@ sections:
       - title: Control
         text: Safeguard your digital fortress with a Web Application Firewall, NGINX Proxy Manager, & cloud firewall, ensuring protection & control over your online assets.
         icon: bi bi-sliders2-vertical
+
+  - type: banner.html  # Include the modified banner here
+    section_id: banner
+    background_style: bg-orange
+    title: Banner Section
 
   - type: call-to-action.html
     section_id: about

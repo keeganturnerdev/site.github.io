@@ -1,4 +1,3 @@
----
 layout: home
 header:
   title: WELCOME TO STACKFORM
@@ -27,10 +26,32 @@ sections:
         text: Safeguard your digital fortress with a Web Application Firewall, NGINX Proxy Manager, & cloud firewall, ensuring protection & control over your online assets.
         icon: bi bi-sliders2-vertical
 
-  - type: banner.html  # Include the modified banner here
+  - type: services.html
+    section_id: services
+    background_style: bg-dark text-white
+    title: Cost Structure
+    text: >
+      Base Stack comprises of Linux, Apache, MariaDB & PHP - Known as the LAMP stack
+    services:
+      - title: Essential @R2599.95
+        text: LAMP stack, phpMyAdmin, PHP, FTP, Composer
+        icon: bi bi-layers-half
+      - title: Core @R2999.95
+        text: LAMP stack, phpMyAdmin, FTP, Composer, Modsec, Fail2Ban, ClamAV
+        icon: bi bi-layers-fill
+      - title: Elite @ R3999.95
+        text: LAMP stack, phpMyAdmin, FTP, Composer, Modsec, Fail2Ban, ClamAV, Docker, NGINX Proxy Manager, Uptime Kuma
+        icon: bi bi-stack
+      - title: Free Let's Encrypt SSL certificate
+        text: Secure your web applications with a free SSL certificate
+        icon: bi bi-lock-fill
+
+  - type: banner.html
     section_id: banner
     background_style: bg-warning
     title: Banner Section
+    text: >
+      This is the banner section with some introductory text.
 
   - type: call-to-action.html
     section_id: about
@@ -60,4 +81,3 @@ sections:
       - title: Instagram
         icon: bi bi-instagram
         url: '#'
----

@@ -1,10 +1,27 @@
 .banner {
+  width: 100%;
+  overflow: hidden;
+}
+
+.banner-container {
   display: flex;
-  overflow-x: scroll;
-  white-space: nowrap;
+  animation: bannerScroll 20s linear infinite; /* Adjust duration and timing function as needed */
 }
 
 .banner img {
-  height: 100px; /* Adjust the height as needed */
-  margin-right: 10px;
+  width: 100px; /* Adjust image size as needed */
+  margin-right: 20px; /* Adjust spacing between images */
+}
+
+.bg-orange {
+  background-color: orange; /* Set the background color */
+}
+
+@keyframes bannerScroll {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
 }

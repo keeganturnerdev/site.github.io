@@ -5,7 +5,7 @@
 
 .banner-container {
   display: flex;
-  animation: bannerScroll 15s linear infinite; /* Adjust duration and timing function as needed */
+  animation: bannerScroll 30s linear infinite; /* Adjust duration and timing function as needed */
 }
 
 .banner img {
@@ -14,7 +14,7 @@
 }
 
 .bg-warning {
-  background-color: orange; /* Set the background color */
+  background-color: warning; /* Set the background color */
 }
 
 @keyframes bannerScroll {

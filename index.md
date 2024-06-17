@@ -9,6 +9,11 @@ header:
     url: '#contacts'
 
 sections:
+  - type: banner.html  # Include the banner here
+    section_id: banner
+    background_style: bg-light
+    title: Banner Section
+
   - type: services.html
     section_id: services
     background_style: bg-dark text-white
@@ -27,28 +32,6 @@ sections:
         text: Safeguard your digital fortress with a Web Application Firewall, NGINX Proxy Manager, & cloud firewall, ensuring protection & control over your online assets.
         icon: bi bi-sliders2-vertical
 
-
-  - type: services.html
-    section_id: services
-    background_style: bg-dark text-white
-    title: Cost Structure
-    text: >
-      Base Stack comprises of Linux, Apache, MariaDB & PHP - Known as the LAMP stack
-    services:
-      - title: Essential @R2599.95 
-        text: LAMP stack, phpMyAdmin, PHP, FTP, Composer
-        icon: bi bi-layers-half
-      - title: Core @R2999.95 
-        text: LAMP stack, phpMyAdmin, FTP, Composer, Modsec, Fail2Ban, ClamAV
-        icon: bi bi-layers-fill
-      - title: Elite @ R3999.95
-        text: LAMP stack, phpMyAdmin, FTP, Composer, Modsec, Fail2Ban, ClamAV, Docker, NGINX Proxy Manager, Uptime Kuma
-        icon: bi bi-stack
-      - title: Free Let's Encrypt SSL certificate
-        text: Secure your web applications with a free SSL certificate 
-        icon: bi bi-lock-fill
-
-  
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
@@ -58,8 +41,6 @@ sections:
       StackForm is a concept, an idea of deploying a stack of technologies on a platform. This platform could be on your local machine, physical servers or in the cloud.
       My function involves constructing the foundational platform by deploying the essential programs and services to host your application in the cloud.
       StackForm is focused on deploying LAMP stacks in the cloud with the aim of bridging the gap between shared and dedicated solutions.
-      
-   
 
   - type: contact.html
     section_id: contacts
@@ -67,8 +48,6 @@ sections:
     background_style: bg-dark text-white
     text: >
       Get your Cloud server stacked.
-    text: >
-      Connect with me and I would be happy to help!
     actions:
       - title: +1 (202) 555-014
         icon: bi bi-telegram

@@ -1,3 +1,4 @@
+---
 layout: home
 header:
   title: WELCOME TO STACKFORM
@@ -81,3 +82,4 @@ sections:
       - title: Instagram
         icon: bi bi-instagram
         url: '#'
+---

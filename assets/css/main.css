@@ -1,0 +1,10 @@
+.banner {
+  display: flex;
+  overflow-x: scroll;
+  white-space: nowrap;
+}
+
+.banner img {
+  height: 100px; /* Adjust the height as needed */
+  margin-right: 10px;
+}

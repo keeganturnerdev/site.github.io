@@ -10,11 +10,11 @@
 
 .banner img {
   width: 80px; /* Adjust image size as needed */
-  margin-right: 30px; /* Adjust spacing between images */
+  margin-right: 50px; /* Adjust spacing between images */
 }
 
 .bg-warning {
-  background-color: warning; /* Set the background color */
+  background-color: $orange-500; /* Set the background color */
 }
 
 @keyframes bannerScroll {

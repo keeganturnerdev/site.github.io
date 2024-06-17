@@ -5,15 +5,15 @@
 
 .banner-container {
   display: flex;
-  animation: bannerScroll 20s linear infinite; /* Adjust duration and timing function as needed */
+  animation: bannerScroll 15s linear infinite; /* Adjust duration and timing function as needed */
 }
 
 .banner img {
-  width: 100px; /* Adjust image size as needed */
-  margin-right: 20px; /* Adjust spacing between images */
+  width: 80px; /* Adjust image size as needed */
+  margin-right: 30px; /* Adjust spacing between images */
 }
 
-.bg-orange {
+.bg-warning {
   background-color: orange; /* Set the background color */
 }
 

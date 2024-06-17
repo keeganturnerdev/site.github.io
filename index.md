@@ -29,7 +29,7 @@ sections:
 
   - type: banner.html  # Include the modified banner here
     section_id: banner
-    background_style: bg-orange
+    background_style: bg-warning
     title: Banner Section
 
   - type: call-to-action.html
